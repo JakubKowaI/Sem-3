@@ -10,6 +10,7 @@ public class Main {
     final Library library = new Library();
     library.addBook("Harry Potter");
     library.addBook("Fightclub");
+    library.addBook("The Shining");
     library.addReader("Jan Konieczny");
     library.addReader("Kajetan Plewa");
 
