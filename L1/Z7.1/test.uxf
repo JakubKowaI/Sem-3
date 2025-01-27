@@ -1,0 +1,22 @@
+<diagram program="umletino" version="15.1"><zoom_level>7</zoom_level><element><id>UMLClass</id><coordinates><x>315</x><y>427</y><w>147</w><h>56</h></coordinates><panel_attributes>_object: Triangle_
+--
+-type: String
+-color: String
+--
++draw()
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>315</x><y>273</y><w>147</w><h>49</h></coordinates><panel_attributes>_object: Main_
+--
+-type: String
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>490</x><y>427</y><w>147</w><h>56</h></coordinates><panel_attributes>_object: Circle_
+--
+-type: String
+-color: String
+--
++draw()
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>133</x><y>427</y><w>147</w><h>56</h></coordinates><panel_attributes>_object: Square_
+--
+-type: String
+-color: String
+--
++draw()
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>203</x><y>315</y><w>196</w><h>126</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;160;260;10</additional_attributes></element><element><id>Relation</id><coordinates><x>378</x><y>315</y><w>21</w><h>126</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;160;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>378</x><y>315</y><w>196</w><h>126</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>260;160;10;10</additional_attributes></element></diagram>
