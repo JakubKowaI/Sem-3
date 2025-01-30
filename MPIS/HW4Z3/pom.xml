@@ -35,7 +35,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.2.0</version>
                 <configuration>
-                    <mainClass>lib.test.Main</mainClass>
+                    <mainClass>lib.test.HW4Z3</mainClass>
                 </configuration>
             </plugin>
         </plugins>
